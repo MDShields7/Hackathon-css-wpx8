@@ -9,3 +9,5 @@
 # Challenge 2 (Recreate)
 
 ## you have 10 minutes to recreate this photo
+
+<img src="./Challenge2/css-challenge.png">
